@@ -321,6 +321,9 @@ p {
 	border-bottom: 0;
 	padding: 14px;
 }
+.mnav .btn-red {
+	color: var(--red-ink);
+}
 @media (max-width: 860px) {
 	.menu-btn {
 		display: grid;
